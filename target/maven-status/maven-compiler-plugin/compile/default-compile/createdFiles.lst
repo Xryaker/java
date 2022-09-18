@@ -1,0 +1,8 @@
+Tesr.class
+Util\DataProvider.class
+Util\FunTest.class
+driverConfig\DriverFactory$1.class
+Pages\TestingPage.class
+driverConfig\DriverFactory.class
+driverConfig\BROWSER.class
+Pages\HomePage.class
